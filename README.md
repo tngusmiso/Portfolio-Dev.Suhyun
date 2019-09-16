@@ -1,132 +1,157 @@
 # Portfolio-Dev.Suhyun
 
-# 임수현
-#### iOS & Android   
-1998.02.17  
+## 임수현  
+#### iOS & Android  
+**1998.02.17**  
 email - k1miso012@gmail.com  
 github - http://github.com/tngusmiso  
-blog - https://blog.naver.com/tngusmiso
-<br><br>
+blog - https://blog.naver.com/tngusmiso  
 
-### **목차**
+# **목차**
 1. [활동 요약](#활동-요약)  
 2. [프로젝트 요약](#프로젝트-요약)  
   2-1. [2019](#2019)  
   2-2. [2018](#2018)  
   2-3. [2017](#2017)  
 3. [프로젝트 상세](#프로젝트-상세)  
-  3-1. [아무계](#아무계)  
-  3-2. [Life.M](#lifem)  
-  3-3. [Pro-Miss](#pro-miss)  
-  3-4. [차랑](#차랑)  
-  3-5. [카카오주차장](#카카오주차장)  
-  3-6. [급행열차](#급행열차)  
-  3-7. [DUCKS](#ducks)  
-  3-8. [홀가분](#홀가분)  
-  3-9. [성공회대학교 사회복지연구소 설문조사 앱](#성공회대학교-사회복지연구소-설문조사-앱)  
-  3-10. [지진대피소 앱](#지진대피소-앱)  
-  3-11. [어때?](#어때)  
-
-## **활동 요약**
+  3-1. [iOS] [아무계](#ios-아무계)  
+  3-2. [iOS] [Life.M](#ios-lifem)  
+  3-3. [Android, iOS, Server] [Pro-Miss](#android-ios-server-pro-miss)  
+  3-4. [iOS] [차랑](#android-ios-차랑)  
+  3-5. [Web Front-end] [카카오주차장](#web-front-end-카카오주차장)  
+  3-6. [Android] [급행열차](#android-급행열차)  
+  3-7. [Android, Server] [DUCKS](#android-server-ducks)  
+  3-8. [기획] [홀가분](#기획-홀가분)  
+  3-9. [RN] [성공회대학교 사회복지연구소 설문조사 앱](#react-native-성공회대학교-사회복지연구소-설문조사-앱)  
+  3-10. [Android] [지진대피소 앱](#android-지진대피소-앱)  
+  3-11. [Android] [어때?](#android-어때)  
+<br><br><br>
+# **활동 요약**
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2019.07. - 진행중 | Nexters 15th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 15기 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [아무계](#아무계) <br> http://teamnexters.com/ |
-| 2019.06.01 - 2019.06.02 | 2019 AngelHack Seoul | 전 세계의 창업팀이 실리콘벨리로 진출할 수 있도록 지원하는 해커톤 참가 <br> **참가 주제** : [Life.M](#Life.M) <br> https://www.facebook.com/AH2019SEOUL |
+| 2019.07. - 진행중 | Nexters 15th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 15기 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [아무계](#ios-아무계) <br> http://teamnexters.com/ |
+| 2019.06.01 - 2019.06.02 | 2019 AngelHack Seoul | 전 세계의 창업팀이 실리콘벨리로 진출할 수 있도록 지원하는 해커톤 참가 <br> **참가 주제** : [Life.M](#ios-lifem) <br> https://www.facebook.com/AH2019SEOUL |
 | 2019.05.16 - 2019.05.17 | Naver Campus Hackday 2019 Summer | 대학생들을 대상으로 1박2일 동안 멘토와 함께하는 해커톤 참가 <br> **참가 주제**: iOS 댓글화면 모듈화 <br> https://d2.naver.com/news/5009947 |
-| 2019.01.21 - 2019.01.25 | 카카오와 함께하는 제주 코딩 베이스캠프 | 홈페이지 기획부터 Web 개발의 전반적인 내용을 교육하는 행사 수료 <br> 기획, Front-end, Back-end 교육 이수 후 해커톤 참가 <br> **참가 주제** : [카카오 주차장](#카카오주차장) <br> http://www.jejucodingcamp.com/ |
-| 2018.11.03 - 2018.11.04 | if 해커톤 | IT 기술로 사회문제 해결을 돕는 사회혁신 해커톤 참가  <br> **참가 주제** : [급행열차](#급행열차) <br> https://www.facebook.com/goifproject/posts/341495643077170/ |
+| 2019.01.21 - 2019.01.25 | 카카오와 함께하는 제주 코딩 베이스캠프 | 홈페이지 기획부터 Web 개발의 전반적인 내용을 교육하는 행사 수료 <br> 기획, Front-end, Back-end 교육 이수 후 해커톤 참가 <br> **참가 주제** : [카카오 주차장](#web-front-end-카카오주차장) <br> http://www.jejucodingcamp.com/ |
+| 2018.11.03 - 2018.11.04 | if 해커톤 | IT 기술로 사회문제 해결을 돕는 사회혁신 해커톤 참가  <br> **참가 주제** : [급행열차](#android-급행열차) <br> https://www.facebook.com/goifproject/posts/341495643077170/ |
 | 2018.03 - 진행중 | 교내 IT 창업 동아리 S.OWL | 교내 IT 동아리에서 회원으로 활동 <br> 매월 세미나 개최 및 자체적으로 학생들끼리 강의 및 스터디 진행 <br> https://www.facebook.com/goifproject/posts/341495643077170/ |
-| <br>
+<br><br><br>
 
-## **프로젝트 요약**
-### 2019
+# **프로젝트 요약**
+## 2019
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2019.07. - 진행중 | **[아무계](#아무계)**  <br> *Nexters 15th* | 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱 <br> **PART** : iOS App (기여도 50%) <br> **STACK** : `Swift`, `CocoaPods`, `Realm` |
-| 2019.06.01 - 2019.06.02 | **[Life.M](#Life.M)** <br> *Angel Hack Seoul* | 인근의 **생리대 자판기**의 위치와 **소녀돌봄약국**, **보건소** 등의 정보를 확인할 수 있는 건강 정보 지도 앱 <br> **PART** : iOS App (기여도 50%) <br> **STACK** : `Swift`, `CocoaPods` |
-| 2019.03. - 진행중 | **[Pro-Miss](#Pro-Miss)** <br> *캡스톤 디자인 수업* | 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱 <br> 교내 IT 경진대회 출품 예정 <br> **PART** : Android App (기여도 40%), iOS App (기여도 70%), 서버 (기여도 10%) <br> **STACK** : `Java`, `Swift`, `CocoaPods`, `Php`, `Laravel` |
-| 2019.01. - 2019.06. | **[차랑](#차랑)** <br> *외주* | 교통사고 발생 시 위치 기반으로 편리하게 실시간 사고 접수를 할 수 있는 앱<br> **PART** : Android App Demo (기여도 30%), iOS App Beta (기여도 50%) <br> **STACK** : `Java`, `Swift`, `CocoaPods`|
-| 2019.01.24 - 2019.01.25 | **[카카오주차장](#카카오주차장)** <br> *제주 코딩 베이스캠프 해커톤* | 개인 주차 공간을 공유할 수 있는 웹서비스 기반 플랫폼 <br> (제주도의 주차공간 문제 해결을 위해 개발) <br> - 2위 수상 <br> **PART** : Web-Front (기여도 50%) <br> **STACK** : `HTML5`, `CSS3`, `JavaScript` |
-|<br>
+| 2019.07. - 진행중 | **[아무계](#ios-아무계)**  <br> *Nexters 15th* | 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱 <br> **PART** : iOS App (기여도 50%) <br> **STACK** : `Swift`, `CocoaPods`, `Realm` |
+| 2019.06.01 - 2019.06.02 | **[Life.M](#ios-lifem)** <br> *Angel Hack Seoul* | 인근의 **생리대 자판기**의 위치와 **소녀돌봄약국**, **보건소** 등의 정보를 확인할 수 있는 건강 정보 지도 앱 <br> **PART** : iOS App (기여도 50%) <br> **STACK** : `Swift`, `CocoaPods` |
+| 2019.03. - 진행중 | **[Pro-Miss](#android-ios-server-pro-miss)** <br> *캡스톤 디자인 수업* | 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱 <br> 교내 IT 경진대회 출품 예정 <br> **PART** : Android App (기여도 40%), iOS App (기여도 70%), 서버 (기여도 10%) <br> **STACK** : `Java`, `Swift`, `CocoaPods`, `Php`, `Laravel` |
+| 2019.01. - 2019.06. | **[차랑](#android-ios-차랑)** <br> *외주* | 교통사고 발생 시 위치 기반으로 편리하게 실시간 사고 접수를 할 수 있는 앱<br> **PART** : Android App Demo (기여도 30%), iOS App Beta (기여도 50%) <br> **STACK** : `Java`, `Swift`, `CocoaPods`|
+| 2019.01.24 - 2019.01.25 | **[카카오주차장](#web-front-end-카카오주차장)** <br> *제주 코딩 베이스캠프 해커톤* | 개인 주차 공간을 공유할 수 있는 웹서비스 기반 플랫폼 <br> (제주도의 주차공간 문제 해결을 위해 개발) <br> - 2위 수상 <br> **PART** : Web-Front (기여도 50%) <br> **STACK** : `HTML5`, `CSS3`, `JavaScript` |
+<br>
 
-### 2018
+## 2018
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2018.11.03 - 2018.11.04 | **[급행열차](#급행열차)**  <br> *if 해커톤* | 저소득층 아동 청소년을 위한 급식카드 활성화를 위하여 인근의 가맹점 정보를 제공하고, 홍보를 돕는 앱 <br> - 후원사 특별상 수상 <br> **PART** : Android App (기여도 50%) <br> **STACK** : `Java`|
-| 2018.11. - 2018.12. | **[DUCKS](#DUCKS)** <br> *Java 프로젝트 수업* | 덕후들을 위한 취향 공유 앱 <br> (자신의 관심사에 대한 일정과 사진 등을 공유하고 2차 생산물 등을 판매 및 나눔할 수 있는 앱) <br> **PART** : (개인 진행) Android App, API Server <br> **STACK** : `Java`, `Php`, `MySQL`|
-| 2018.06. - 2018.07. | **[홀가분](#홀가분)** <br> *전주시 공공데이터 앱 공모전*| 텃밭 분양 정보를 제공하며, 농장 일지를 기록하여 공유할 수 있는 SNS 형태의 앱 <br> **PART** : 기획 |
-| 2018.03. - 2018.06. | **[성공회대학교 사회복지연구소 설문조사 앱](#성공회대학교-사회복지연구소-설문조사-앱)** <br> *외주* | 성공회대학교 사회복지연구소에서 연구목적으로 사용하기 위한 설문조사 앱 <br> **PART** : Hybird App (기여도 35%) <br> **STACK** : `React-Native`|
-|<br>
+| 2018.11.03 - 2018.11.04 | **[급행열차](#android-급행열차)**  <br> *if 해커톤* | 저소득층 아동 청소년을 위한 급식카드 활성화를 위하여 인근의 가맹점 정보를 제공하고, 홍보를 돕는 앱 <br> - 후원사 특별상 수상 <br> **PART** : Android App (기여도 50%) <br> **STACK** : `Java`|
+| 2018.11. - 2018.12. | **[DUCKS](#android-server-ducks)** <br> *Java 프로젝트 수업* | 덕후들을 위한 취향 공유 앱 <br> (자신의 관심사에 대한 일정과 사진 등을 공유하고 2차 생산물 등을 판매 및 나눔할 수 있는 앱) <br> **PART** : (개인 진행) Android App, API Server <br> **STACK** : `Java`, `Php`, `MySQL`|
+| 2018.06. - 2018.07. | **[홀가분](#기획-홀가분)** <br> *전주시 공공데이터 앱 공모전*| 텃밭 분양 정보를 제공하며, 농장 일지를 기록하여 공유할 수 있는 SNS 형태의 앱 <br> **PART** : 기획 |
+| 2018.03. - 2018.06. | **[성공회대학교 사회복지연구소 설문조사 앱](#react-native-성공회대학교-사회복지연구소-설문조사-앱)** <br> *외주* | 성공회대학교 사회복지연구소에서 연구목적으로 사용하기 위한 설문조사 앱 <br> **PART** : Hybird App (기여도 35%) <br> **STACK** : `React-Native`|
+<br>
 
-### 2017
+## 2017
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2017.12. - 2018.02. | **[지진대피소 앱](#지진대피소-앱)** | 공공데이터 Open API를 활용하여 인근의 지진대피소 정보를 제공해 주는 앱 <br> **PART** : Android App (기여도 50%) <br> **STACK** : `Java`|
-| 2017.12. - 2018.02. | **[어때?](#어때?)** | Microsoft의 Emotion API를 활용하여 현재 사용자의 표정에 어울리는 음악을 추천해 주는 앱<br> **PART** : Android App (기여도 60%) <br> **STACK** : [`Thunkable`](https://thunkable.com/#/) (Drag & Drop 방식의 블록코딩)|
-|<br><br>
+| 2017.12. - 2018.02. | **[지진대피소 앱](#android-지진대피소-앱)** | 공공데이터 Open API를 활용하여 인근의 지진대피소 정보를 제공해 주는 앱 <br> **PART** : Android App (기여도 50%) <br> **STACK** : `Java`|
+| 2017.12. - 2018.02. | **[어때?](#android-어때)** | Microsoft의 Emotion API를 활용하여 현재 사용자의 표정에 어울리는 음악을 추천해 주는 앱<br> **PART** : Android App (기여도 60%) <br> **STACK** : [`Thunkable`](https://thunkable.com/#/) (Drag & Drop 방식의 블록코딩)|
+<br><br><br>
 
 
-## **프로젝트 상세**
-## 아무계
-> [iOS] 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱  
+# **프로젝트 상세**
+## [iOS] 아무계
+> 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱  
 - iOS Source : https://github.com/Nexters/Amoogye-iOS  
-- Android Download : https://play.google.com/store/apps/details?id=cookcook.nexters.com.amoogye  
-- iOS Download : 배포 예정  
+Android Download : https://play.google.com/store/apps/details?id=cookcook.nexters.com.amoogye  
+iOS Download : 배포 예정  
 
-Nexters에서 활동하게 되면서 진행하게 된 프로젝트입니다.  
-
-요즘은 인터넷에 조금만 검색해도 다양한 레시피들이 나오기 때문에 누구나 쉽게 다양한 요리를 해 볼 수 있습니다. 하지만 요리 초보자들에게는 계량도구가 없는 상황에서 레시피의 단위가 정량 수치로 되어있으면 참 당황스럽습니다. 이런 분들을 위해 아무계를 개발하게 되었습니다.
+- Nexters에서 활동하게 되면서 진행하게 된 프로젝트입니다. 요즘은 인터넷에 조금만 검색해도 다양한 레시피들이 나오기 때문에 누구나 쉽게 다양한 요리를 해 볼 수 있습니다. 하지만 요리 초보자들에게는 계량도구가 없는 상황에서 레시피의 단위가 정량 수치로 되어있으면 참 당황스럽습니다. 이런 분들을 위해 아무계를 개발하게 되었습니다.
 
 ---
-## Life.M
-> [iOS] 인근의 생리대 자판기의 위치와 소녀돌봄약국, 보건소 등의 정보를 확인할 수 있는 건강 정보 지도 앱  
+## [iOS] Life.M
+> 인근의 생리대 자판기의 위치와 소녀돌봄약국, 보건소 등의 정보를 확인할 수 있는 건강 정보 지도 앱  
 - iOS Source : https://github.com/angelhack-seoul-2019/SanitaryPadSharingService-iOS 
 
 ---
-## Pro-Miss
+## [Android, iOS, Server] Pro-Miss
 > [Android, iOS, Server] 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱  
-- Android Source (구버전) : https://github.com/SKHU-CSE/Pro-Miss
-- iOS Source : https://github.com/SKHU-CSE/Promiss_iOS 
+- Android Source (구버전) : https://github.com/SKHU-CSE/Pro-Miss  
+iOS Source : https://github.com/SKHU-CSE/Promiss_iOS 
+
+- 약속 시간을 지킬 수 있도록 도와주는 안드로이드 앱 \<Pro-Miss>를 개발하였습니다. 시간이 지날수록 일정 범위 안에 들어가야 하는 생존게임 <배틀그라운드>를 연상시키는 방식으로 작동됩니다. 약속 시간이 다가올수록 가까워져야 할 거리를 원으로 표시해 주고, 원 밖으로 벗어나거나 지각하게 되면 벌금이 부과됩니다. 게임처럼 즐겁게 사용할 수 있어 참여율을 높힐 수 있고, 지불된 벌금은 기부를 하거나 공금으로 사용하여 더 의미있는 모임 문화를 형성할 수 있을 것입니다.
+
+- SNS 로그인과 위치공유 기능을 구현하였고, 네이버 지도 API를 사용했습니다.
+
+- 최종적으로 교내 IT경진대회 수상과 플레이스토어 배포를 목표로 하고 있습니다.
 
 ---
-## 차랑
-> [Android, iOS] 교통사고 발생 시 위치 기반으로 편리하게 실시간 사고 접수를 할 수 있는 앱  
-- Android Source : https://gitlab.com/s-owl/charang (private)
-- iOS Source : https://gitlab.com/namsoo5/charang-ios (private)  
-- Android Download : https://play.google.com/store/apps/details?id=charang.sowl.charang_android
-- iOS Download : 발주처 사정으로 차후에 배포 예정  
+## [Android, iOS] 차랑
+> 교통사고 발생 시 위치 기반으로 편리하게 실시간 사고 접수를 할 수 있는 앱  
+- Android Source : https://gitlab.com/s-owl/charang (private)  
+iOS Source : https://gitlab.com/namsoo5/charang-ios (private)  
+Android Download : https://play.google.com/store/apps/details?id=charang.sowl.charang_android  
+iOS Download : 발주처 사정으로 차후에 배포 예정  
 
 ---
-## 카카오주차장
-> [Web Front-end] 개인 주차 공간을 공유할 수 있는 웹서비스 기반 플랫폼 
+## [Web Front-end] 카카오주차장
+> 개인 주차 공간을 공유할 수 있는 웹서비스 기반 플랫폼 
 - Source : https://github.com/tngusmiso/kakaoparking01  
 
+- 제주도는 인구대비 등록차량이 매해 증가하고 있으며, 세계 대비 차량비율이 1.93대로 주차갈등이 심각한 상황입니다. 2019년 7월 1일부터 차고지 증명제가 시행된다는 입법 예고에 따라 주차면 가치까지 상승하고 있습니다. 따라서 주차면 거래가 활성화 될 것이라는 예측에 의하여 주차공간 공유 서비스를 개발하게 되었습니다.
+
+- 저는 웹 프론트를 담당하였으며, 차량을 이용하는 중장년층 세대도 쉽게 접근가능하도록 Bootstrap을 활용하여 디자인을 깔끔하고 간단하게 만드는 것에 초점을 맞추었습니다.
+
+- 결과/성과 : 제주도에서 진행된 해커톤인만큼 제주를 발전시킬 수 있는 서비스를 기획하려고 노력했습니다. 철저한 시장 분석과 실제 도민에게 필요한 요구 분석을 통해 접근한 결과, 해커톤에서 2위를 수상하였습니다.
 ---
-## 급행열차
-> [Android] 저소득층 아동 청소년을 위한 급식카드 활성화를 위하여 인근의 가맹점 정보를 제공하고, 홍보를 돕는 앱
+## [Android] 급행열차
+> 저소득층 아동 청소년을 위한 급식카드 활성화를 위하여 인근의 가맹점 정보를 제공하고, 홍보를 돕는 앱
 - Android Source : https://github.com/SKHU-CSE/if_ExpressTrain  
 
+- 현재 급식 카드가 활발하게 사용되고 있지 않기 때문에 가맹점의 수가 많지 않고, 단말기의 노후로 실제 사용할 수 있는 지점이 적습니다. 결국 아동들은 매번 가맹점을 찾아다니기 보다 편의점에서 식사를 떼우는 것을 선택합니다. 아동급식카드의 취지인 아동청소년들의 고른 영양 섭취를 위해 가맹점들을 카테고리별로 보여주고, 주문 가능한 메뉴가 무엇인지 보여주는 서비스입니다. 단순히 가맹점 목록과 위치를 나열하는 것에서 벗어나, 급식카드 가맹이 되어 있지 않더라도 저렴한 금액과 풍부한 영양의 식당을 소개해 주는 기능까지 더하여 확장성을 도모하였습니다.
+
+- 제가 담당한 분야는 안드로이드였습니다. http통신을 이용해 서버에 저장된 DB의 내용을 불러오고, 리사이클러뷰를 활용하여 그 데이터들의 목록을 화면에 보여주었습니다. 또한 네이버 지도 API를 사용하여 가맹점의 위치를 보여주었습니다.
+
+- 결과/성과 : 사회적 약자를 위한 해커톤이었습니다.이 서비스는 이용 대상이 저소득층 청소년들로 명확하고 그들에게 반드시 필요한 서비스이기 때문에 자연스럽게 사용자들이 유입될 것이라고 생각했습니다. 또한 서비스를 제공하면서 수집되는 데이터를 더 나은 정책 마련의 발판으로 작용할 수 있다는 점에서 높은 점수를 받아 후원사 특별상을 수상하였습니다.
 ---
-## DUCKS
-> [Android, Server] 덕후들을 위한 취향 공유 앱  
-- Source : https://github.com/tngusmiso/javaPJ-Android-2018  
+## [Android, Server] DUCKS
+> 덕후들을 위한 취향 공유 앱  
+- Source : https://github.com/tngusmiso/javaPJ-Android-2018 
+
+- 안드로이드 기반의 취향공유 플랫폼을 개발하였습니다. DUCKS는 흔히 말하는 '덕후(일본의 오타쿠, 즉 매니아층을 부르는 말의 변형)'들을 위한 커뮤니티 형태의 어플입니다. 자신이 좋아하는 취향을 선택하고 그 취향에 맞는 일정을 살펴볼 수 있으며, 공유게시판을 통해 물건을 팔거나 나눌 수 있습니다. 선택할 수 있는 취향은 연예인이나 애니메이션, 영화, 스포츠 까지 다양하게 있습니다. 이 어플을 통해 자신이 좋아하는 것을 마음껏 공유하고 서로의 취미 생활을 응원하다보면 더 좋은 문화로 발전할 것을 기대해 보았습니다.
+
+- 개인 프로젝트였기 때문에 안드로이드, 서버, DB까지 모두 혼자서 구현하였습니다. 서버와의 통신은 HttpURLConnection보다 간편한 OkHttp 라이브러리를 사용하여 구현하였고, 서버는 네이버클라우드 플랫폼의 ubuntu 웹서버를 사용하였습니다.  
+
 
 ---
-## 홀가분
-> [기획] 텃밭 분양 정보를 제공하며, 농장 일지를 기록하여 공유할 수 있는 SNS 형태의 앱
-- Source : https://github.com/HolGa-Bun/HolidayGarden 
+## [기획] 홀가분
+> 텃밭 분양 정보를 제공하며, 농장 일지를 기록하여 공유할 수 있는 SNS 형태의 앱
+- Source : https://github.com/HolGa-Bun/HolidayGarden  
+
+- 전주시 공공데이터를 활용하여 텃밭 분양 안드로이드 어플리케이션을 만들었습니다. 지역별로 분양중인 텃밭을 살펴볼 수 있고, 농사에 필요한 날씨정보와 농작물 재배 방법에 대한 정보를 제공받을 수 있습니다. 또한 텃밭일지를 작성할 수 있는 SNS기능도 포함되어 있어 귀농을 희망하거나 취미로 텃밭가꾸기를 할 사람들의 커뮤니티를 형성하는데에 도움을 줄 수 있는 어플입니다. 
+
+- 기획과 디자인을 담당하였습니다. 개발 능력도 중요하지만 서비스를 처음부터 기획해보는 과정도 필요하다는 생각이 들었기 때문입니다. 어떤 기능이 구현되어야 하고 어떤 사용자 요구사항이 있을지를 파악하고 나니 무엇을 공부해야 할지도 명확해졌습니다. SNS를 만들기 위해서는 기본적으로 회원 가입을 통해 회원 정보를 관리해야 하고, 팔로우 시스템을 도입할 것인지 친구 신청을 통해 서로 친구를 맺을 수 있도록 할 것인지도 고민해야 했습니다. 타임라인에는 어떠한 내용의 게시물들이 보여져야 하며 댓글과 좋아요 및 공유하기 기능의 권한을 어느 정도로 설정할 것인지 정하는 과정도 필요했습니다. 단순히 SNS를 사용자 입장에서만 바라보았다가 직접 만들어야 할 기능을 세분화 해보니 앞으로 프로젝트를 할 때 어떤 방향으로 진행이 될 지 큰 흐름을 잡는데에 도움이 되었습니다.
 
 ---
-## 성공회대학교 사회복지연구소 설문조사 앱
-> [Android, iOS] 성공회대학교 사회복지연구소에서 복지사들이 연구목적으로 사용하기 위한 설문조사 앱
-- Source : https://gitlab.com/s-owl/surveyapp (private) 
-- Android Download : https://play.google.com/store/apps/details?id=kr.ac.skhu.sowelab.surveyapp  
-- iOS Download : https://apps.apple.com/kr/app/성공회대학교-사회복지연구소-설문조사앱/id1404763167  
+## [React Native] 성공회대학교 사회복지연구소 설문조사 앱
+> 성공회대학교 사회복지연구소에서 복지사들이 연구목적으로 사용하기 위한 설문조사 앱
+- Source : https://gitlab.com/s-owl/surveyapp (private)  
+Android Download : https://play.google.com/store/apps/details?id=kr.ac.skhu.sowelab.surveyapp  
+iOS Download : https://apps.apple.com/kr/app/성공회대학교-사회복지연구소-설문조사앱/id1404763167  
+
+- 교내 IT 창업 동아리 S.OWL에서 활동중입니다. 성공회대학교 사회복지연구소의 의뢰로 설문조사 어플리케이션 개발을 맡게 되었습니다. 발주처에서는 사회복지사들이 돌봄 어르신들을 대상으로 진행하는 여러 종류의 설문조사에서 매번 결과값을 수동으로 합산하고 처리하는 방식에 불편함을 느껴 앱 제작을 고려하게 되었다고 합니다. Android와 iOS 모두에서 구동되는 앱을 개발해야 했기 때문에, 쉽게 익힐 수 있는 javascript를 사용하여 하이브리드처럼 작동할 수 있는 ReactNative를 개발 언어로 선택했습니다.
+
+- 설문지 파일을 yaml 형식으로 구조화하고 화면에서 처리하는 부분을 담당했습니다. json 형식의 데이터는 여러번 다루어 보았지만, 비개발자인 복지사분들도 설문지 문항을 제작하기 편리하도록 json 대신 yaml 형식을 선택했습니다. 문항 유형별로 화면에 보여지는 방법이 달라져야 하기 때문에 먼저 유형을 단일 응답과 다중응답, 주관식 등으로 세분화하였습니다. 일부 문항은 응답별 가중치를 부여하여 문항을 점프하거나 점수를 합산해야 하는데, 이 부분의 로직 처리에 문제가 생겨 다시 문항 유형을 더욱 세분화 하였습니다. 응답을 마친 후 계산된 결과는 엑셀 파일에 자동으로 저장되도록 구현했습니다.
+---
+## [Android] 지진대피소 앱
+> 공공데이터 Open API를 활용하여 인근의 지진대피소 정보를 제공해 주는 앱
 
 ---
-## 지진대피소 앱
-> [Android] 공공데이터 Open API를 활용하여 인근의 지진대피소 정보를 제공해 주는 앱
-
----
-## 어때? 
-> [Android] Microsoft의 Emotion API를 활용하여 현재 사용자의 표정에 어울리는 음악을 추천해 주는 앱
+## [Android] 어때? 
+> Microsoft의 Emotion API를 활용하여 현재 사용자의 표정에 어울리는 음악을 추천해 주는 앱
