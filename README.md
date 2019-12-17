@@ -25,15 +25,18 @@ blog - https://blog.naver.com/tngusmiso
   3-9. [RN] [성공회대학교 사회복지연구소 설문조사 앱](#react-native-성공회대학교-사회복지연구소-설문조사-앱)  
   3-10. [Android] [지진대피소 앱](#android-지진대피소-앱)  
   3-11. [Android] [어때?](#android-어때)  
+  
 <br><br><br>
 # **활동 요약**
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
+| 2019.11.21 - 2019.11.22 | Naver Campus Hackday 2019 Winter | 대학생들을 대상으로 1박2일 동안 멘토와 함께하는 해커톤 참가 <br> **참가 주제**: Vstagram -> Wtube (이름 변경) // 리스트형 플레이어 <br> https://d2.naver.com/news/5009947 |
+| 2019.10.21. | 교내 제 10회 IT&미디어컨텐츠 경진대회 | 성공회대학교 `IT융합자율학부`와 `미디어컨텐츠융합자율학부` 학생들의 정보기술 활용 능력 향상을 목표로 하는 경진대회 <br> **참가 주제** :[Pro-Miss](#android-ios-server-pro-miss) <br> - 동상 수상 |
 | 2019.07. - 진행중 | Nexters 15th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 15기 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [아무계](#ios-아무계) <br> http://teamnexters.com/ |
 | 2019.06.01 - 2019.06.02 | 2019 AngelHack Seoul | 전 세계의 창업팀이 실리콘벨리로 진출할 수 있도록 지원하는 해커톤 참가 <br> **참가 주제** : [Life.M](#ios-lifem) <br> https://www.facebook.com/AH2019SEOUL |
 | 2019.05.16 - 2019.05.17 | Naver Campus Hackday 2019 Summer | 대학생들을 대상으로 1박2일 동안 멘토와 함께하는 해커톤 참가 <br> **참가 주제**: iOS 댓글화면 모듈화 <br> https://d2.naver.com/news/5009947 |
-| 2019.01.21 - 2019.01.25 | 카카오와 함께하는 제주 코딩 베이스캠프 | 홈페이지 기획부터 Web 개발의 전반적인 내용을 교육하는 행사 수료 <br> 기획, Front-end, Back-end 교육 이수 후 해커톤 참가 <br> **참가 주제** : [카카오 주차장](#web-front-end-카카오주차장) <br> http://www.jejucodingcamp.com/ |
-| 2018.11.03 - 2018.11.04 | if 해커톤 | IT 기술로 사회문제 해결을 돕는 사회혁신 해커톤 참가  <br> **참가 주제** : [급행열차](#android-급행열차) <br> https://www.facebook.com/goifproject/posts/341495643077170/ |
+| 2019.01.21 - 2019.01.25 | 카카오와 함께하는 제주 코딩 베이스캠프 | 홈페이지 기획부터 Web 개발의 전반적인 내용을 교육하는 행사 수료 <br> 기획, Front-end, Back-end 교육 이수 후 해커톤 참가 <br> **참가 주제** : [카카오 주차장](#web-front-end-카카오주차장) <br> - 2위 수상 <br> http://www.jejucodingcamp.com/ |
+| 2018.11.03 - 2018.11.04 | if 해커톤 | IT 기술로 사회문제 해결을 돕는 사회혁신 해커톤 참가  <br> **참가 주제** : [급행열차](#android-급행열차) <br> - 후원사 특별상 수상 <br> https://www.facebook.com/goifproject/posts/341495643077170/ |
 | 2018.03 - 진행중 | 교내 IT 창업 동아리 S.OWL | 교내 IT 동아리에서 회원으로 활동 <br> 매월 세미나 개최 및 자체적으로 학생들끼리 강의 및 스터디 진행 <br> https://www.facebook.com/goifproject/posts/341495643077170/|
 
 <br><br><br>
@@ -44,7 +47,7 @@ blog - https://blog.naver.com/tngusmiso
 |:----|:---------|:--------|
 | 2019.07. - 진행중 | **[아무계](#ios-아무계)**  <br> *Nexters 15th* | 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱 <br> **PART** : iOS App (기여도 50%) <br> **LIST** : 계산기 화면 인터렉션 구현 / 커스텀 Input 버튼 구현 / 타이머 기능 구현(시간 종료 시 Notification, 남은 시간 인터렉션) <br> **STACK** : `Swift`, `CocoaPods`, `Realm` |
 | 2019.06.01 - 2019.06.02 | **[Life.M](#ios-lifem)** <br> *Angel Hack Seoul* | 인근의 **생리대 자판기**의 위치와 **소녀돌봄약국**, **보건소** 등의 정보를 확인할 수 있는 건강 정보 지도 앱 <br> **PART** : iOS App (기여도 50%) <br> **LIST** : 현재 위치 표시 기능 구현 / 마커 클릭 시 지도 이동 인터렉션과 상세정보 화면 구현 / 교육지원 프로그램 상세 정보 화면 구현 <br> **STACK** : `Swift`, `CocoaPods` |
-| 2019.03. - 진행중 | **[Pro-Miss](#android-ios-server-pro-miss)** <br> *캡스톤 디자인 수업* | 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱 <br> 교내 IT 경진대회 출품 예정 <br> **PART** : Android App (기여도 40%), iOS App (기여도 70%), 서버 (기여도 10%) <br> **LIST** : 회원가입, 로그인 기능 / 지도 기능 / 남은 시간과 원이 줄어드는 간격 계산식 구현 / 약속 만들기 기능 / 지난 약속 목록 구현 <br> **STACK** : `Java`, `Swift`, `CocoaPods`, `Php`, `Laravel` |
+| 2019.03. - 진행중 | **[Pro-Miss](#android-ios-server-pro-miss)** <br> *캡스톤 디자인 수업* | 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱 <br> - 교내 IT 경진대회 동상 수상 <br> **PART** : Android App (기여도 40%), iOS App (기여도 70%), 서버 (기여도 10%) <br> **LIST** : 회원가입, 로그인 기능 / 지도 기능 / 남은 시간과 원이 줄어드는 간격 계산식 구현 / 약속 만들기 기능 / 지난 약속 목록 구현 <br> **STACK** : `Java`, `Swift`, `CocoaPods`, `Php`, `Laravel` |
 | 2019.01. - 2019.06. | **[차랑](#android-ios-차랑)** <br> *외주* | 교통사고 발생 시 위치 기반으로 편리하게 실시간 사고 접수를 할 수 있는 앱<br> **PART** : Android App Demo (기여도 30%), iOS App Beta (기여도 50%) <br> **LIST** : 실시간 위치 표시 기능 / 전화 및 문자 접수 기능 / 상세 주소 검색 기능 / 좌표 주소 변환 기능 / 회원 정보 수정 기능 <br> **STACK** : `Java`, `Swift`, `CocoaPods`|
 | 2019.01.24 - 2019.01.25 | **[카카오주차장](#web-front-end-카카오주차장)** <br> *제주 코딩 베이스캠프 해커톤* | 개인 주차 공간을 공유할 수 있는 웹서비스 기반 플랫폼 <br> (제주도의 주차공간 문제 해결을 위해 개발) <br> - 2위 수상 <br> **PART** : Web-Front (기여도 50%) <br> **LIST** : (대여자) 대여 신청 페이지 / (판매자) 주차장 등록 페이지  <br> **STACK** : `HTML5`, `CSS3`, `JavaScript` |
 
@@ -104,6 +107,15 @@ iOS Source : https://github.com/SKHU-CSE/Promiss_iOS
 iOS Source : https://gitlab.com/namsoo5/charang-ios (private)  
 Android Download : https://play.google.com/store/apps/details?id=charang.sowl.charang_android  
 iOS Download : 발주처 사정으로 차후에 배포 예정  
+
+- 담당 분야
+    - 지도에 현재 위치를 표시하고 주소 정보를 불러오는 기능 : `Naver Maps API`(v3), `Reverse Geocoding`(v2), `CoreLocation`
+    - 전화 및 문자 메세지로 사고를 접수하는 기능 : `UIApplication.shared.open()`, `MFMessageComposeViewControllerDelegate`
+    - 상세 주소 검색 기능(사용자가 위치 기반이 아니라 검색을 통해 사고 접수 위치를 지정하고 싶을 때) : `Naver Search Places`, `Geocoding`
+    - 회원 정보 수정 기능
+    
+- 모든 통신은 `Alamofire`로 구현 
+
 
 ---
 ## [Web Front-end] 카카오주차장
