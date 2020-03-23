@@ -10,21 +10,23 @@ blog - https://blog.naver.com/tngusmiso
 # **목차**
 1. [활동 요약](#활동-요약)  
 2. [프로젝트 요약](#프로젝트-요약)  
-  2-1. [2019](#2019)  
-  2-2. [2018](#2018)  
-  2-3. [2017](#2017)  
-3. [프로젝트 상세](#프로젝트-상세)  
-  3-1. [iOS] [아무계](#ios-아무계)  
-  3-2. [iOS] [Life.M](#ios-lifem)  
-  3-3. [Android, iOS, Server] [Pro-Miss](#android-ios-server-pro-miss)  
-  3-4. [iOS] [차랑](#android-ios-차랑)  
-  3-5. [Web Front-end] [카카오주차장](#web-front-end-카카오주차장)  
-  3-6. [Android] [급행열차](#android-급행열차)  
-  3-7. [Android, Server] [DUCKS](#android-server-ducks)  
-  3-8. [기획] [홀가분](#기획-홀가분)  
-  3-9. [RN] [성공회대학교 사회복지연구소 설문조사 앱](#react-native-성공회대학교-사회복지연구소-설문조사-앱)  
-  3-10. [Android] [지진대피소 앱](#android-지진대피소-앱)  
-  3-11. [Android] [어때?](#android-어때)  
+  2-1. [2020](#2020)  
+  2-2. [2019](#2019)  
+  2-3. [2018](#2018)  
+  2-4. [2017](#2017)  
+3. [프로젝트 상세](#프로젝트-상세) 
+  3-1. [iOS] [옛다](#ios-옛다)  
+  3-2. [iOS] [아무계](#ios-아무계)  
+  3-3. [iOS] [Life.M](#ios-lifem)  
+  3-4. [Android, iOS, Server] [Pro-Miss](#android-ios-server-pro-miss)  
+  3-5. [iOS] [차랑](#android-ios-차랑)  
+  3-6. [Web Front-end] [카카오주차장](#web-front-end-카카오주차장)  
+  3-7. [Android] [급행열차](#android-급행열차)  
+  3-8. [Android, Server] [DUCKS](#android-server-ducks)  
+  3-9. [기획] [홀가분](#기획-홀가분)  
+  3-10. [RN] [성공회대학교 사회복지연구소 설문조사 앱](#react-native-성공회대학교-사회복지연구소-설문조사-앱)  
+  3-11. [Android] [지진대피소 앱](#android-지진대피소-앱)  
+  3-12. [Android] [어때?](#android-어때)  
   
 <br><br><br>
 # **활동 요약**
@@ -42,6 +44,12 @@ blog - https://blog.naver.com/tngusmiso
 <br><br><br>
 
 # **프로젝트 요약**
+
+## 2020
+| 기간 | 프로젝트 명 | 내용     |
+|:----|:---------|:--------|
+| 2019.12. - 진행중 | **[옛다](#ios-옛다)**  <br> *Nexters 16th* | 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱 <br> **PART** : iOS App (기여도 50%) <br> **LIST** : UI 커스텀(버튼, 금액 제한 멀티 슬라이더, 질문지 카드뷰 등) <br> **STACK** : `Swift`, `CocoaPods`, `Realm` |
+
 ## 2019
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
@@ -73,6 +81,12 @@ blog - https://blog.naver.com/tngusmiso
 
 
 # **프로젝트 상세**
+## [iOS] 옛다
+> 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱
+- iOS Source : https://github.com/Nexters/Yetda_iOS
+Android Download : https://play.google.com/store/apps/details?id=com.nexters.yetda.android
+iOS Download : 배포 예정
+
 ## [iOS] 아무계
 > 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱  
 - iOS Source : https://github.com/Nexters/Amoogye-iOS  
