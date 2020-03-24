@@ -48,7 +48,7 @@ blog - https://blog.naver.com/tngusmiso
 ## 2020
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2019.12. - 진행중 | **[옛다](#ios-옛다)**  <br> *Nexters 16th* | 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱 <br> **PART** : iOS App (기여도 50%) <br> **LIST** : UI 커스텀(버튼, 금액 제한 멀티 슬라이더, 질문지 카드뷰 등) <br> **STACK** : `Swift`, `CocoaPods`, `Realm` |
+| 2020.01. - 진행중 | **[옛다](#ios-옛다)**  <br> *Nexters 16th* | 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱 <br> **PART** : iOS App (기여도 50%) <br> **LIST** : UI 커스텀(버튼, 금액 제한 멀티 슬라이더, 질문지 카드뷰 등), 일러스트와 Lottie 모션  <br> **STACK** : `Swift`, `CocoaPods`, `Realm`, `Lottie` |
 
 ## 2019
 | 기간 | 프로젝트 명 | 내용     |
@@ -87,6 +87,9 @@ blog - https://blog.naver.com/tngusmiso
 Android Download : https://play.google.com/store/apps/details?id=com.nexters.yetda.android
 iOS Download : 배포 예정
 
+- Nexters에서 활동하며 진행한 2번째 프로젝트입니다. 지인의 생일 선물을 준비할 때 어떤 선물을 골라야 할 지 고민이 됩니다. 생일인 사람에게 직접 받고 싶은 선물을 물어보기보다는 간단한 질문들을 통해 랜덤으로 선물을 추천해 주는 앱으로 그 고민을 해결하고자 하였습니다. 귀여운 일러스트와 모션(Lottie)을 적용하였습니다.
+
+---
 ## [iOS] 아무계
 > 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱  
 - iOS Source : https://github.com/Nexters/Amoogye-iOS  
