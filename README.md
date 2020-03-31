@@ -55,7 +55,7 @@ blog - https://blog.naver.com/tngusmiso
 |:----|:---------|:--------|
 | 2019.07. - 진행중 | **[아무계](#ios-아무계)**  <br> *Nexters 15th* | 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱 <br> **PART** : iOS App (기여도 50%) <br> **LIST** : 계산기 화면 인터렉션 구현 / 커스텀 Input 버튼 구현 / 타이머 기능 구현(시간 종료 시 Notification, 남은 시간 인터렉션) <br> **STACK** : `Swift`, `CocoaPods`, `Realm` |
 | 2019.06.01 - 2019.06.02 | **[Life.M](#ios-lifem)** <br> *Angel Hack Seoul* | 인근의 **생리대 자판기**의 위치와 **소녀돌봄약국**, **보건소** 등의 정보를 확인할 수 있는 건강 정보 지도 앱 <br> **PART** : iOS App (기여도 50%) <br> **LIST** : 현재 위치 표시 기능 구현 / 마커 클릭 시 지도 이동 인터렉션과 상세정보 화면 구현 / 교육지원 프로그램 상세 정보 화면 구현 <br> **STACK** : `Swift`, `CocoaPods` |
-| 2019.03. - 진행중 | **[Pro-Miss](#android-ios-server-pro-miss)** <br> *캡스톤 디자인 수업* | 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱 <br> - 교내 IT 경진대회 동상 수상 <br> **PART** : Android App (기여도 40%), iOS App (기여도 70%), 서버 (기여도 10%) <br> **LIST** : 회원가입, 로그인 기능 / 지도 기능 / 남은 시간과 원이 줄어드는 간격 계산식 구현 / 약속 만들기 기능 / 지난 약속 목록 구현 <br> **STACK** : `Java`, `Swift`, `CocoaPods`, `Php`, `Laravel` |
+| 2019.03. - 2019.10.21. | **[Pro-Miss](#android-ios-server-pro-miss)** <br> *캡스톤 디자인 수업* <br> *교내 IT 경진대회* | 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱 <br> - 교내 IT 경진대회 동상 수상 <br> **PART** : Android App (기여도 40%), iOS App (기여도 70%), 서버 (기여도 10%) <br> **LIST** : 회원가입, 로그인 기능 / 지도 기능 / 남은 시간과 원이 줄어드는 간격 계산식 구현 / 약속 만들기 기능 / 지난 약속 목록 구현 <br> **STACK** : `Java`, `Swift`, `CocoaPods`, `Php`, `Laravel` |
 | 2019.01. - 2019.06. | **[차랑](#android-ios-차랑)** <br> *외주* | 교통사고 발생 시 위치 기반으로 편리하게 실시간 사고 접수를 할 수 있는 앱<br> **PART** : Android App Demo (기여도 30%), iOS App Beta (기여도 50%) <br> **LIST** : 실시간 위치 표시 기능 / 전화 및 문자 접수 기능 / 상세 주소 검색 기능 / 좌표 주소 변환 기능 / 회원 정보 수정 기능 <br> **STACK** : `Java`, `Swift`, `CocoaPods`|
 | 2019.01.24 - 2019.01.25 | **[카카오주차장](#web-front-end-카카오주차장)** <br> *제주 코딩 베이스캠프 해커톤* | 개인 주차 공간을 공유할 수 있는 웹서비스 기반 플랫폼 <br> (제주도의 주차공간 문제 해결을 위해 개발) <br> - 2위 수상 <br> **PART** : Web-Front (기여도 50%) <br> **LIST** : (대여자) 대여 신청 페이지 / (판매자) 주차장 등록 페이지  <br> **STACK** : `HTML5`, `CSS3`, `JavaScript` |
 
@@ -101,7 +101,8 @@ iOS Download : 배포 예정
 ---
 ## [iOS] Life.M
 > 인근의 생리대 자판기의 위치와 소녀돌봄약국, 보건소 등의 정보를 확인할 수 있는 건강 정보 지도 앱  
-- iOS Source : https://github.com/angelhack-seoul-2019/SanitaryPadSharingService-iOS 
+- iOS Source : https://github.com/angelhack-seoul-2019/SanitaryPadSharingService-iOS  
+Video : https://www.youtube.com/watch?v=4GCDzG1kvFU  
 
 - 급하게 생리대가 필요할 때, 생리대 자판기의 위치를 알 수 있으면 좋겠다는 생각에서 시작된 서비스입니다. 여성 복지를 위해 운영되고 있지만 실 사용률이 낮은 생리대 자판기의 접근성을 높이고, 나아가 여성 청소년이 건강한 성인으로 자랄 수 있는 심리적 기반을 형성하는 데에 도움을 주기 위하여 개발하였습니다.
 
@@ -109,13 +110,15 @@ iOS Download : 배포 예정
 ## [Android, iOS, Server] Pro-Miss
 > [Android, iOS, Server] 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱  
 - Android Source (구버전) : https://github.com/SKHU-CSE/Pro-Miss  
-iOS Source : https://github.com/SKHU-CSE/Promiss_iOS 
+iOS Source : https://github.com/SKHU-CSE/Promiss_iOS  
+Video : https://www.youtube.com/watch?v=bqL3uaNtA2k  
 
-- 약속 시간을 지킬 수 있도록 도와주는 안드로이드 앱 \<Pro-Miss>를 개발하였습니다. 시간이 지날수록 일정 범위 안에 들어가야 하는 생존게임 <배틀그라운드>를 연상시키는 방식으로 작동됩니다. 약속 시간이 다가올수록 가까워져야 할 거리를 원으로 표시해 주고, 원 밖으로 벗어나거나 지각하게 되면 벌금이 부과됩니다. 게임처럼 즐겁게 사용할 수 있어 참여율을 높힐 수 있고, 지불된 벌금은 기부를 하거나 공금으로 사용하여 더 의미있는 모임 문화를 형성할 수 있을 것입니다.
+
+- 약속 시간을 지킬 수 있도록 도와주는 Android, iOS 앱 \<Pro-Miss>를 개발하였습니다. 시간이 지날수록 일정 범위 안에 들어가야 하는 생존게임 <배틀그라운드>를 연상시키는 방식으로 작동됩니다. 약속 시간이 다가올수록 가까워져야 할 거리를 원으로 표시해 주고, 원 밖으로 벗어나거나 지각하게 되면 벌금이 부과됩니다. 게임처럼 즐겁게 사용할 수 있어 참여율을 높힐 수 있고, 지불된 벌금은 기부를 하거나 공금으로 사용하여 더 의미있는 모임 문화를 형성할 수 있을 것입니다.
 
 - SNS 로그인과 위치공유 기능을 구현하였고, 네이버 지도 API를 사용했습니다.
 
-- 최종적으로 교내 IT경진대회 수상과 플레이스토어 배포를 목표로 하고 있습니다.
+- 교내 IT경진대회에서 동상을 수상하였습니다.
 
 ---
 ## [Android, iOS] 차랑
@@ -158,7 +161,8 @@ iOS Download : 발주처 사정으로 차후에 배포 예정
 ---
 ## [Android, Server] DUCKS
 > 덕후들을 위한 취향 공유 앱  
-- Source : https://github.com/tngusmiso/javaPJ-Android-2018 
+- Source : https://github.com/tngusmiso/javaPJ-Android-2018  
+Video : https://www.youtube.com/watch?v=VleSDcJlUfg  
 
 - 안드로이드 기반의 취향공유 플랫폼을 개발하였습니다. DUCKS는 흔히 말하는 '덕후(일본의 오타쿠, 즉 매니아층을 부르는 말의 변형)'들을 위한 커뮤니티 형태의 어플입니다. 자신이 좋아하는 취향을 선택하고 그 취향에 맞는 일정을 살펴볼 수 있으며, 공유게시판을 통해 물건을 팔거나 나눌 수 있습니다. 선택할 수 있는 취향은 연예인이나 애니메이션, 영화, 스포츠 까지 다양하게 있습니다. 이 어플을 통해 자신이 좋아하는 것을 마음껏 공유하고 서로의 취미 생활을 응원하다보면 더 좋은 문화로 발전할 것을 기대해 보았습니다.
 
