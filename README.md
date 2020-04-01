@@ -14,7 +14,7 @@ blog - https://blog.naver.com/tngusmiso
   2-2. [2019](#2019)  
   2-3. [2018](#2018)  
   2-4. [2017](#2017)  
-3. [프로젝트 상세](#프로젝트-상세) 
+3. [프로젝트 상세](#프로젝트-상세)  
   3-1. [iOS] [옛다](#ios-옛다)  
   3-2. [iOS] [아무계](#ios-아무계)  
   3-3. [iOS] [Life.M](#ios-lifem)  
@@ -32,9 +32,10 @@ blog - https://blog.naver.com/tngusmiso
 # **활동 요약**
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
+| 2019.12. - 2020.02. | Nexters 16th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [아무계](#ios-옛다) <br> http://teamnexters.com/ |
 | 2019.11.21 - 2019.11.22 | Naver Campus Hackday 2019 Winter | 대학생들을 대상으로 1박2일 동안 멘토와 함께하는 해커톤 참가 <br> **참가 주제**: Vstagram -> Wtube (이름 변경) // 리스트형 플레이어 <br> https://d2.naver.com/news/5009947 |
 | 2019.10.21. | 교내 제 10회 IT&미디어컨텐츠 경진대회 | 성공회대학교 `IT융합자율학부`와 `미디어컨텐츠융합자율학부` 학생들의 정보기술 활용 능력 향상을 목표로 하는 경진대회 <br> **참가 주제** :[Pro-Miss](#android-ios-server-pro-miss) <br> - 동상 수상 |
-| 2019.07. - 진행중 | Nexters 15th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 15기 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [아무계](#ios-아무계) <br> http://teamnexters.com/ |
+| 2019.07. - 2019.08. | Nexters 15th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 15기 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [아무계](#ios-아무계) <br> http://teamnexters.com/ |
 | 2019.06.01 - 2019.06.02 | 2019 AngelHack Seoul | 전 세계의 창업팀이 실리콘벨리로 진출할 수 있도록 지원하는 해커톤 참가 <br> **참가 주제** : [Life.M](#ios-lifem) <br> https://www.facebook.com/AH2019SEOUL |
 | 2019.05.16 - 2019.05.17 | Naver Campus Hackday 2019 Summer | 대학생들을 대상으로 1박2일 동안 멘토와 함께하는 해커톤 참가 <br> **참가 주제**: iOS 댓글화면 모듈화 <br> https://d2.naver.com/news/5009947 |
 | 2019.01.21 - 2019.01.25 | 카카오와 함께하는 제주 코딩 베이스캠프 | 홈페이지 기획부터 Web 개발의 전반적인 내용을 교육하는 행사 수료 <br> 기획, Front-end, Back-end 교육 이수 후 해커톤 참가 <br> **참가 주제** : [카카오 주차장](#web-front-end-카카오주차장) <br> - 2위 수상 <br> http://www.jejucodingcamp.com/ |
@@ -81,11 +82,11 @@ blog - https://blog.naver.com/tngusmiso
 
 
 # **프로젝트 상세**
-## [iOS] 옛다
+## [iOS] 옛다  
 > 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱
-- iOS Source : https://github.com/Nexters/Yetda_iOS
-Android Download : https://play.google.com/store/apps/details?id=com.nexters.yetda.android
-iOS Download : 배포 예정
+- iOS Source : https://github.com/Nexters/Yetda_iOS  
+Android Download : https://play.google.com/store/apps/details?id=com.nexters.yetda.android  
+iOS Download : 배포 예정  
 
 - Nexters에서 활동하며 진행한 2번째 프로젝트입니다. 지인의 생일 선물을 준비할 때 어떤 선물을 골라야 할 지 고민이 됩니다. 생일인 사람에게 직접 받고 싶은 선물을 물어보기보다는 간단한 질문들을 통해 랜덤으로 선물을 추천해 주는 앱으로 그 고민을 해결하고자 하였습니다. 귀여운 일러스트와 모션(Lottie)을 적용하였습니다.
 
