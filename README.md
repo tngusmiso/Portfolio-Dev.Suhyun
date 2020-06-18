@@ -6,9 +6,17 @@
 email - k1miso012@gmail.com  
 github - http://github.com/tngusmiso  
 blog - https://blog.naver.com/tngusmiso  
+blog2 - https://tngusmiso.tistory.com/
 
 # **목차**
 1. [활동 요약](#활동-요약)  
+  1-1. [동아리] Nexters   
+  1-2. [동아리] S.OWL  
+  1-3. [교육/캠프] Naver Campus Hackday  
+  1-4. [교육/캠프] 카카오와 함께하는 제주 코딩 베이스캠프  
+  1-5. [경진대회] 교내 IT 미디어 컨텐츠 경진대회  
+  1-6. [해커톤] 2019 AngelHack Seoul  
+  1-7. [해커톤] IF 해커톤  
 2. [프로젝트 요약](#프로젝트-요약)  
   2-1. [2020](#2020)  
   2-2. [2019](#2019)  
