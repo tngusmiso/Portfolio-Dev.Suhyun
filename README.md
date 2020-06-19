@@ -1,12 +1,19 @@
 # Portfolio-Dev.Suhyun
 
 ## 임수현  
-#### iOS & Android  
+#### Mobile App Developer 
 **1998.02.17**  
 email - k1miso012@gmail.com  
 github - http://github.com/tngusmiso  
 blog - https://blog.naver.com/tngusmiso  
 blog2 - https://tngusmiso.tistory.com/
+
+> 꼼꼼한 개발자
+
+> 빈 틈을 채워나가는 개발자
+
+> 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자
+
 
 # **목차**
 1. [활동 요약](#활동-요약)  
