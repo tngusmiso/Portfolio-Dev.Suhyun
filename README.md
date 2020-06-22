@@ -99,6 +99,8 @@ blog2 - https://tngusmiso.tistory.com/
 
 # **프로젝트 상세**
 ## [iOS] 옛다  
+<img src="./img/옛다(1).png"  width="200">
+
 > 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱
 - iOS Source : https://github.com/Nexters/Yetda_iOS  
 Android Download : https://play.google.com/store/apps/details?id=com.nexters.yetda.android  
