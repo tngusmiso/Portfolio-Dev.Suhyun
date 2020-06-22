@@ -110,6 +110,8 @@ iOS Download : 배포 예정
 
 ---
 ## [iOS] 아무계
+<img src="./img/아무계.png"  width="200">
+
 > 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱  
 - iOS Source : https://github.com/Nexters/Amoogye-iOS  
 Android Download : https://play.google.com/store/apps/details?id=cookcook.nexters.com.amoogye  
