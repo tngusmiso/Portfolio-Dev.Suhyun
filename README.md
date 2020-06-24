@@ -121,6 +121,8 @@ iOS Download : 배포 예정
 
 ---
 ## [iOS] Life.M
+<img src="./img/LifeM.png"  width="200">
+
 > 인근의 생리대 자판기의 위치와 소녀돌봄약국, 보건소 등의 정보를 확인할 수 있는 건강 정보 지도 앱  
 - iOS Source : https://github.com/angelhack-seoul-2019/SanitaryPadSharingService-iOS  
 Video : https://www.youtube.com/watch?v=4GCDzG1kvFU  
