@@ -131,6 +131,8 @@ Video : https://www.youtube.com/watch?v=4GCDzG1kvFU
 
 ---
 ## [Android, iOS, Server] Pro-Miss
+<img src="./img/PRO-MISS(1).png"  width="200">
+
 > [Android, iOS, Server] 약속에 지각하면 벌금을 부과하여 약속을 지킬 수 있도록 도와주는 앱  
 - Android Source (구버전) : https://github.com/SKHU-CSE/Pro-Miss  
 iOS Source : https://github.com/SKHU-CSE/Promiss_iOS  
