@@ -175,6 +175,8 @@ iOS Download : 발주처 사정으로 차후에 배포 예정
 
 ---
 ## [Android] 급행열차
+<img src="./img/급행열차.png"  width="200">
+
 > 저소득층 아동 청소년을 위한 급식카드 활성화를 위하여 인근의 가맹점 정보를 제공하고, 홍보를 돕는 앱
 - Android Source : https://github.com/SKHU-CSE/if_ExpressTrain  
 
