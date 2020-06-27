@@ -187,6 +187,8 @@ iOS Download : 발주처 사정으로 차후에 배포 예정
 - 결과/성과 : 사회적 약자를 위한 해커톤이었습니다.이 서비스는 이용 대상이 저소득층 청소년들로 명확하고 그들에게 반드시 필요한 서비스이기 때문에 자연스럽게 사용자들이 유입될 것이라고 생각했습니다. 또한 서비스를 제공하면서 수집되는 데이터를 더 나은 정책 마련의 발판으로 작용할 수 있다는 점에서 높은 점수를 받아 후원사 특별상을 수상하였습니다.
 ---
 ## [Android, Server] DUCKS
+<img src="./img/DUCKS.png"  width="200">
+
 > 덕후들을 위한 취향 공유 앱  
 - Source : https://github.com/tngusmiso/javaPJ-Android-2018  
 Video : https://www.youtube.com/watch?v=VleSDcJlUfg  
