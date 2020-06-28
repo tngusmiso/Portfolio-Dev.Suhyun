@@ -49,7 +49,7 @@ blog2 - https://tngusmiso.tistory.com/
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
 | 2019.12. - 2020.02. | <img src="./img/nexters_logo.png"> Nexters 16th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [옛다](#ios-옛다) <br> http://teamnexters.com/ |
-| 2019.11.21 - 2019.11.22 | Naver Campus Hackday 2019 Winter | 대학생들을 대상으로 1박2일 동안 멘토와 함께하는 해커톤 참가 <br> **참가 주제**: Vstagram -> Wtube (이름 변경) // 리스트형 플레이어 <br> https://d2.naver.com/news/5009947 |
+| 2019.11.21 - 2019.11.22 | <img src="./img/hackday_logo.png">Naver Campus Hackday 2019 Winter | 대학생들을 대상으로 1박2일 동안 멘토와 함께하는 해커톤 참가 <br> **참가 주제**: Vstagram -> Wtube (이름 변경) // 리스트형 플레이어 <br> https://d2.naver.com/news/5009947 |
 | 2019.10.21. | 교내 제 10회 IT&미디어컨텐츠 경진대회 | 성공회대학교 `IT융합자율학부`와 `미디어컨텐츠융합자율학부` 학생들의 정보기술 활용 능력 향상을 목표로 하는 경진대회 <br> **참가 주제** :[Pro-Miss](#android-ios-server-pro-miss) <br> - 동상 수상 |
 | 2019.07. - 2019.08. | <img src="./img/nexters_logo.png"> Nexters 15th | 개발자와 디자이너의 IT 연합동아리 Nexters에서 15기 개발자로 활동 <br> 대학생 기준 방학기간 2달동안 하나의 프로젝트 완수를 목표로 함. <br> **활동 프로젝트** : [아무계](#ios-아무계) <br> http://teamnexters.com/ |
 | 2019.06.01 - 2019.06.02 | 2019 AngelHack Seoul | 전 세계의 창업팀이 실리콘벨리로 진출할 수 있도록 지원하는 해커톤 참가 <br> **참가 주제** : [Life.M](#ios-lifem) <br> https://www.facebook.com/AH2019SEOUL |
