@@ -18,7 +18,7 @@ blog2 - https://tngusmiso.tistory.com/
 
 # **목차**
 1. [활동 요약](#활동-요약)  
-  1-1. [교육/캠프] 부스트캠프 2020 챌린지
+  1-1. [교육/캠프] Boostcamp 2020 챌린지  
   1-2. [동아리] Nexters   
   1-3. [동아리] S.OWL  
   1-4. [교육/캠프] Naver Campus Hackday  
