@@ -2,13 +2,15 @@
 
 ## 임수현  
 
+### [👩‍💻 Notion 포트폴리오](https://www.notion.so/fd824605fe6045d6928369a7d8cadcd4)
+
 #### Mobile App Developer 
 
 **1998.02.17**  
 email - k1miso012@gmail.com  
 github - http://github.com/tngusmiso  
 blog - https://blog.naver.com/tngusmiso  
-blog2 - https://tngusmiso.tistory.com/
+blog2 - https://tngusmiso.tistory.com/  
 
 > 꼼꼼한 개발자
 
