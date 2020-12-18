@@ -2,7 +2,7 @@
 
 ## 임수현  
 
-### [👩‍💻 Notion 포트폴리오](https://www.notion.so/fd824605fe6045d6928369a7d8cadcd4)
+### [👩‍💻 Notion 포트폴리오](https://www.notion.so/tngusmiso/fd824605fe6045d6928369a7d8cadcd4)
 
 #### Mobile App Developer 
 
